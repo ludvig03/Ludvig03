@@ -33,6 +33,8 @@
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Tailwind" width="30px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" style="padding-right:10px;" />
   <img align="left" alt="Python" width="30px" src="https://www.svgrepo.com/show/19538/py.svg" style="padding-right:10px;" />
+  <img align="left" alt="Solana" width="30px" src="https://uploads-ssl.webflow.com/61267ae151779a3b040013d9/616aeeb3e70601dc6adf7dcc_solana-sol-logo.png" style="padding-right:10px;" />
+  <img align="left" alt="Solidity" width="30px" src="https://solidity-by-example.org/static/media/logo.ed2942c41ca20fd4f70a.png" style="padding-right:10px;" />
 </div>
 
 <br />
