@@ -10,15 +10,6 @@
 - ⚡ Fun fact: Er det sommertid selger jeg is på dagen og koder om natten
 - 😻 Sjekk ut bakkacoin på solscan: [BAC](https://solscan.io/token/FFDyss8ZNKDoptctFbem76j5idS5yqWVc3kLsNhgFSpV)
 
-### Ta kontakt!
-
-[![Instagram](./img/instagram-light.svg)](https://instagram.com/ludvigbergsaker#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/ludvigbergsaker#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCtdR585zsOm3OQa1eBTMpvQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCtdR585zsOm3OQa1eBTMpvQ#gh-dark-mode-only)
-
-
 
 ### Språk og rammeverk:
 
@@ -48,3 +39,11 @@
 
 <img align="left" alt="Ludvig's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ludvig03&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+
+### Some
+
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/ludvigbergsaker#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/ludvigbergsaker#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCtdR585zsOm3OQa1eBTMpvQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCtdR585zsOm3OQa1eBTMpvQ#gh-dark-mode-only)
