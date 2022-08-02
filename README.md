@@ -6,7 +6,7 @@
 
 - 🪙 Grunlegger og CEO av [Bakkacoin](https://bakkacoin.no)!
 - 🙋 Elsker å lære nye ting
-- 🥅 Mål for 2022: Lære meg mer av web3 (solana og solidity)
+- 🥅 Mål for 2022: Lære meg mer web3 (solana og solidity)
 - ⚡ Fun fact: Er det sommertid selger jeg is på dagen og koder om natten
 - 😻 Sjekk ut bakkacoin på solscan: [BAC](https://solscan.io/token/FFDyss8ZNKDoptctFbem76j5idS5yqWVc3kLsNhgFSpV)
 
@@ -102,4 +102,4 @@
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0# Ludvig03
