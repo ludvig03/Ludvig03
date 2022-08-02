@@ -1,4 +1,4 @@
-# Heisann 👋 Jeg er Ludvig
+# Heisann 👋  Jeg er Ludvig
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-### Some
+### SoMe
 
 [![Instagram](./img/instagram-light.svg)](https://instagram.com/ludvigbergsaker#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ludvigbergsaker#gh-dark-mode-only)
