@@ -25,7 +25,7 @@
   <img align="left" alt="Tailwind" width="30px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" style="padding-right:10px;" />
   <img align="left" alt="Python" width="30px" src="https://www.svgrepo.com/show/19538/py.svg" style="padding-right:10px;" />
   <img align="left" alt="Solana" width="30px" src="https://uploads-ssl.webflow.com/61267ae151779a3b040013d9/616aeeb3e70601dc6adf7dcc_solana-sol-logo.png" style="padding-right:10px;" />
-  <img align="left" alt="Solidity" width="30px" src="https://solidity-by-example.org/static/media/logo.ed2942c41ca20fd4f70a.png" style="padding-right:10px;" />
+  <img align="left" alt="Three.js" width="30px" src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" style="padding-right:10px;" />
 </div>
 
 <br />
@@ -43,13 +43,15 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCtdR585zsOm3OQa1eBTMpvQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCtdR585zsOm3OQa1eBTMpvQ#gh-dark-mode-only)
 
+<br />
+<br />
+
 
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Ludvig's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ludvig03&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
-<br />
-<br />
+
 
 
