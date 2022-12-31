@@ -25,7 +25,10 @@
   <img align="left" alt="Tailwind" width="30px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" style="padding-right:10px;" />
   <img align="left" alt="Python" width="30px" src="https://www.svgrepo.com/show/19538/py.svg" style="padding-right:10px;" />
   <img align="left" alt="Solana" width="30px" src="https://uploads-ssl.webflow.com/61267ae151779a3b040013d9/616aeeb3e70601dc6adf7dcc_solana-sol-logo.png" style="padding-right:10px;" />
-  <img align="left" alt="Three.js" width="30px" src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" style="padding-right:10px;" />
+  <img align="left" alt="Three.js" width="30px" src="https://ucarecdn.com/22a0a69b-689f-46c9-866b-57650f31fde9/" style="padding-right:10px;" />
+  <img align="left" alt="Mongoose" width="30px" src="https://miro.medium.com/max/1050/1*acfAKaDI7uv5GyFnJmiPhA.png" style="padding-right:10px;" />
+  <img align="left" alt="Node.JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" style="padding-right:10px;" />
+  <img align="left" alt="Mongo DB" width="30px" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-Transparent.png" style="padding-right:10px;" />
 </div>
 
 <br />
