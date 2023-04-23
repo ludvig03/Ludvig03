@@ -5,7 +5,7 @@
 ## Jeg digger tech, spenning og visjoner!!
 
 - 🪙 Grunlegger og CEO av [Bakkacoin](https://polished-limit-3838.on.fleek.co)!
-- ✍ Nå jobber jeg på [Venue.no](https://myvenue.no)
+- ✍ Nå jobber jeg på [Venue.no](https://myvenue.no) og [Russestickers.no](https://russestickers.no)
 - 🙋‍♂️ Elsker å lære nye ting
 - 🥅 Mål for 2022: Lære meg mer web3 (solana og solidity)
 - ⚡ Fun fact: Er det sommertid selger jeg is på dagen og koder om natten
